@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
 dtacLinebkSDK sample project description
                    DESC
 
-  spec.homepage     = "https://www.dtac.co.th/home.html"
+  spec.homepage     = "https://github.com/dtac-trinet/dtac-line-bk-sdk-ios
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
