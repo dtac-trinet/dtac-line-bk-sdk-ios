@@ -94,7 +94,7 @@ spec.swift_version = "4.2"
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "git@github.com:dtac-trinet/dtac-line-bk-sdk-ios.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/dtac-trinet/dtac-line-bk-sdk-ios.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
