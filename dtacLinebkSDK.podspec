@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "dtacLinebkSDK"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "dtacLinebkSDK sample project summary"
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
 dtacLinebkSDK sample project description
                    DESC
 
-  spec.homepage     = "https://github.com/dtac-trinet/dtac-line-bk-sdk-ios
+  spec.homepage     = "https://github.com/dtac-trinet/dtac-line-bk-sdk-ios"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
